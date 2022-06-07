@@ -4,8 +4,7 @@ domain: www.jimcarrey.fun
 tags: github
 subtitle: planning project
 slug: project-test
-cover:
-https://cdn.hashnode.com/res/hashnode/image/upload/v1654583434653/ERbEcrWnT.jpg?auto=compress
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1654583434653/ERbEcrWnT.jpg?auto=compress
 ---
 # project
 
