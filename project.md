@@ -1,12 +1,7 @@
 ---
 title: project
 domain: www.jimcarrey.fun
-tags: {
-    "name": "GitHub",
-    "logo": "https://cdn.hashnode.com/res/hashnode/image/upload/v1513321555902/BkhLElZMG.png",
-    "slug": "github",
-    "objectID": "56744721958ef13879b94c63"
-  }
+tags: #GitHub
 subtitle: project_test
 slug: project/project-test
 cover:
