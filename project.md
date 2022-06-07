@@ -1,7 +1,7 @@
 ---
 title: project
 domain: www.jimcarrey.fun
-tags: 
+tags: GitHub
 subtitle: project_test
 slug: project/project-test
 cover:
