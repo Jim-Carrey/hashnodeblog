@@ -1,7 +1,7 @@
 ---
 title: project
-domain: jimcarrey.fun
-tags: gnu
+domain: www.jimcarrey.fun
+tags: 
 subtitle: project_test
 slug: project/project-test
 cover:
